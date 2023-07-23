@@ -1,0 +1,35 @@
+* [33mcommit 0c0614fe26f56d26547a7706988678dfb425e8ff[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-test01-20230723[m[33m)[m
+[31m|[m Author: chunjiazz <chunjiaceng@gmail.com>
+[31m|[m Date:   Sun Jul 23 13:07:39 2023 +0800
+[31m|[m 
+[31m|[m     feature commit
+[31m|[m 
+* [33mcommit 13cd85af61900eb9a3d2f43ba7dadd44e59394d9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+[31m|[m Author: chunjiazz <chunjiaceng@gmail.com>
+[31m|[m Date:   Sat Jul 22 23:56:32 2023 +0800
+[31m|[m 
+[31m|[m     three commit
+[31m|[m 
+* [33mcommit 224799e66df9e4aa21f943caed24e3504ac67280[m
+[31m|[m Author: chunjiazz <chunjiaceng@gmail.com>
+[31m|[m Date:   Sat Jul 22 23:43:45 2023 +0800
+[31m|[m 
+[31m|[m     尝试备注git commit
+[31m|[m 
+* [33mcommit 34d19df04d1dd5ae822686a651143c0f68fd69ea[m
+[31m|[m Author: chunjiazz <chunjiaceng@gmail.com>
+[31m|[m Date:   Sat Jul 22 23:38:38 2023 +0800
+[31m|[m 
+[31m|[m     this is second comit
+[31m|[m 
+* [33mcommit efb278cc1e63dfd0b140dc6dd7df17f10f2e9be1[m
+[31m|[m Author: chunjiazz <chunjiaceng@gmail.com>
+[31m|[m Date:   Wed Jun 22 17:08:26 2022 +0800
+[31m|[m 
+[31m|[m     two commit
+[31m|[m 
+* [33mcommit d3da4e6c9e9eb668e9e51d28204e15204b8e435c[m
+  Author: chunjiazz <chunjiaceng@gmail.com>
+  Date:   Wed Jun 22 16:48:37 2022 +0800
+  
+      first commit
